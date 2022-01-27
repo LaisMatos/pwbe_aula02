@@ -61,6 +61,13 @@ input{
     color: #ffffff;
     text-decoration: none;
 }
+.msgErro{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1em;
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
 
 
 
